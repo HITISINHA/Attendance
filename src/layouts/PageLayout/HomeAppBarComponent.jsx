@@ -63,7 +63,7 @@ export default class AppBarComponent extends React.Component {
     return (
       <div>
         <AppBar
-            title="Shipahi"
+            title="Employee Billdesk"
             titleStyle={{"margin":"auto"}}
             iconElementLeft={<img alt='SPH' style={{styles}} className='home-logo' src={Logo} />}          
         />
